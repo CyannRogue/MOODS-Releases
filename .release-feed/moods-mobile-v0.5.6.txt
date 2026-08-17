@@ -1,0 +1,5 @@
+product=mobile
+release=moods-mobile-v0.5.6
+version=0.5.6
+version_code=120
+source=9a02a2e8d70e9460e53a4d4db725dba3f5526d2b
