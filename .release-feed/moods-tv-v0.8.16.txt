@@ -1,0 +1,5 @@
+product=tv
+release=moods-tv-v0.8.16
+version=0.8.16
+version_code=1057
+source=9e0a761a84296a7f1b48ca7188b51d4239a1fa0d
