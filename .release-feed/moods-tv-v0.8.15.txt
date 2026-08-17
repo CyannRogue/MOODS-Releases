@@ -1,0 +1,5 @@
+product=tv
+release=moods-tv-v0.8.15
+version=0.8.15
+version_code=1056
+source=48117ba01d2e774ccdcad2cd43b27ad71d14f19c
